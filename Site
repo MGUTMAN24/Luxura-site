@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>LUXURA | Real Estate for the Exceptional</title>
+  <style>
+    body {
+      font-family: 'Helvetica Neue', sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f9f9f9;
+      color: #222;
+    }
+    header {
+      background-image: url('https://images.unsplash.com/photo-1572120360610-d971b9b78808?auto=format&fit=crop&w=1052&q=80');
+      background-size: cover;
+      background-position: center;
+      height: 90vh;
+      color: white;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+    }
+    header h1 {
+      font-size: 3rem;
+      margin-bottom: 1rem;
+    }
+    header p {
+      font-size: 1.5rem;
+      max-width: 600px;
+    }
+    .content {
+      padding: 2rem;
+      max-width: 800px;
+      margin: 0 auto;
+    }
+    .section {
+      margin-bottom: 3rem;
+    }
+    .section h2 {
+      color: #111;
+    }
+    .cta {
+      text-align: center;
+      margin: 4rem 0;
+    }
+    .cta a {
+      display: inline-block;
+      background-color: #222;
+      color: white;
+      padding: 1rem 2rem;
+      text-decoration: none;
+      border-radius: 6px;
+      font-size: 1.2rem;
+    }
+    footer {
+      background: #eee;
+      padding: 2rem;
+      text-align: center;
+      font-size: 0.9rem;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Your Gateway to Premium Real Estate</h1>
+    <p>Exceptional properties in Israel & Europe | Tailored for international buyers</p>
+  </header>
+  <main class="content">
+    <section class="section">
+      <h2>About LUXURA</h2>
+      <p>At LUXURA, we connect international buyers with high-end real estate opportunities across Israel and select European destinations. We offer tailored, discreet, and professional service to help you find your next dream home or investment.</p>
+    </section>
+    <section class="section">
+      <h2>Our Services</h2>
+      <ul>
+        <li>Luxury property sourcing in Tel Aviv, Herzliya & Jerusalem</li>
+        <li>Vacation homes & investment properties in Greece, Cyprus and more</li>
+        <li>Discreet representation for international clients</li>
+        <li>End-to-end support in English or Hebrew</li>
+      </ul>
+    </section>
+    <section class="section">
+      <h2>Why Choose Us</h2>
+      <ul>
+        <li>Personalized guidance</li>
+        <li>Global perspective</li>
+        <li>Access to off-market listings</li>
+        <li>Trust and professionalism</li>
+      </ul>
+    </section>
+    <div class="cta">
+      <a href="mailto:realestateluxura@gmail.com">Let's Find Your Property</a>
+    </div>
+  </main>
+  <footer>
+    LUXURA | Real Estate for the Exceptional © 2025
+  </footer>
+</body>
+</html>
